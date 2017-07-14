@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /Users/ashishkumar/IdeaProjects/kafkawatcher/target/scala-2.12/kafkawatcher_2.12-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	producer$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ashishkumar/IdeaProjects/kafkawatcher/target/scala-2.12/classes/producer$.class[0m
+[0m[[0mdebug[0m] [0m	consumer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ashishkumar/IdeaProjects/kafkawatcher/target/scala-2.12/classes/consumer.class[0m
+[0m[[0mdebug[0m] [0m	hij.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ashishkumar/IdeaProjects/kafkawatcher/target/scala-2.12/classes/hij.class[0m
+[0m[[0mdebug[0m] [0m	hi.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ashishkumar/IdeaProjects/kafkawatcher/target/scala-2.12/classes/hi.class[0m
+[0m[[0mdebug[0m] [0m	consumer$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ashishkumar/IdeaProjects/kafkawatcher/target/scala-2.12/classes/consumer$.class[0m
+[0m[[0mdebug[0m] [0m	producer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ashishkumar/IdeaProjects/kafkawatcher/target/scala-2.12/classes/producer.class[0m
+[0m[[0mdebug[0m] [0m	hi$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ashishkumar/IdeaProjects/kafkawatcher/target/scala-2.12/classes/hi$.class[0m
+[0m[[0mdebug[0m] [0m	producer$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ashishkumar/IdeaProjects/kafkawatcher/target/scala-2.12/classes/producer$delayedInit$body.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
