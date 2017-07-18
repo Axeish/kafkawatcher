@@ -4,7 +4,7 @@
 		module="kafkawatcher_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20170714133053"
+		publication="20170715032205"
 	>
 		<description>
 		KafkaWatcher
@@ -34,6 +34,6 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.12.2" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.12.2" conf="scala-tool->default,optional(default);compile->default(compile)"/>
-		<dependency org="org.apache.kafka" name="kafka-clients" rev="0.9.0.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.kafka" name="kafka-clients" rev="0.11.0.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
